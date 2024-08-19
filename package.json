@@ -5,7 +5,7 @@
   "dependencies": {
     "@formio/js": "5.0.0-dev.5621.91bd945",
     "@formio/react": "6.0.0-dev.568.ced0fbd",
-    "@material-tailwind/react": "^2.0.1",
+    "@material-tailwind/react": "^2.1.9",
     "@microlink/react-json-view": "^1.23.1",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
